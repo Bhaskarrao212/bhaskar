@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		 	<title>page design</title>
+		 	 <link rel="stylesheet" type="text/css" href="HOME.css">
+
+		</head>
+		<body>
+		<div> 
+		<nav>
+		<center>
+		<div id="bhas">
+			<a href="html" >HOME</a>
