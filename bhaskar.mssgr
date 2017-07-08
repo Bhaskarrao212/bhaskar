@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+	<html>
+		<div class="jumbotron text-center">
+  			<h1>iBerry Messenger</h1>
+		<head>
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  			<meta charset="utf-8">
+  			<meta name="viewport" content="width=device-width, initial-scale=1">
+  			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>   
+			<link rel="stylesheet" type="text/css" href="file:///C:/Users/ADMIN/Desktop/project1/iberry%20sign%20in">
+		<title>page design</title>
+		</head>
+		<div>
+			<div id="raj">
+			<center>
+				<img src="http://support.iberry.asia/images/logo.png"></a>
+			</center>
+		</div>
+	<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">iBerry</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="non"><a href="#">Home</a></li>
+      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="product.html.html">product<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Blog</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="signup.html"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="sign in.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+    </ul>
+  </div>
+</nav>
+  
+<div class="container">
+  <h2>Image Gallery</h2>
+  <p>iBerry is a non-profit making website connecting to information and resources for learners and anyone with an interest in Open Education. The focus is on connection rather than content - we see iBerry as one small part of an emerging and Open Global Education Network that one day will bring inexpensive education to anyone, anywhere, regardless of their circumstances.</p>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu3BTi18RXFCRnqvm633L0hXbVOjKwcb1979skmlNApiW8jRmt" alt="Lights" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="/w3images/nature.jpg" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnaQXNQNPMMFMBDJah33o-IS2CKJhmgCBVYiPO9WiyQUhoNI0FiA" alt="Nature" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="/w3images/fjords.jpg" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw10IynbY-KiAZ2ITvutaYfbsZR-9l66RAmtoFGrvjyO9wiGxtLw" alt="Fjords" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <h2>Cars</h2>
+  <p>While India awaits the confirmation from Tesla to launch the Model 3 in the country, the world is already clicking the images of the new Model 3. And we have got a hold on some of the clearest interior and exterior images of the Tesla Model 3, thanks to an reddit user inamachineshop.The Model 3 will be an all-electric car with two battery pack options – a 55kWh and a 70 kWh pack. Musk has confirmed that the car will go 0-100 kmph in just 5.7 seconds and can run 350 kms in a single charge.
+
+With functions like autonomous driving, glass roof and almost 100 configurations, the Model 3 is expected to take the world by storm, only if it could be priced reasonably well. Speculations are that the Model 3 will start somewhere around $35000 in the U.S and could go all the way up to $42000.
+</p>            
+  <img src="http://img01.ibnlive.in/ibnlive/uploads/2017/06/fde29541c3693c60e569c6197280d610-11.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
+</div>
+<div class="container">
+
+ <h2>Image Gallery</h2>
+  <p>Elon Musk then hinted at the India entry in the coming years, most probably by 2018. Narendra Modi, Prime Minister of India visited Tesla’s factory in the U.S, giving a push to the speculation that Tesla might soon come to India. But then, Elon Musk expressed his dissatisfaction over the tedious business process of India.</p>
+  <p>The white and blue colored Model 3 spied here comes with a trademark Tesla design of no grille upfront and a fastback inspired design. The dual shade paint work makes it look more exciting, like a little supercar.</p>
+  <p>The Model 3 will be an all-electric car with two battery pack options – a 55kWh and a 70 kWh pack. Musk has confirmed that the car will go 0-100 kmph in just 5.7 seconds and can run 350 kms in a single charge.</p>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="/w3images/lights.jpg" target="_blank">
+          <img src="https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?h=350&auto=compress&cs=tinysrgb" alt="Lights" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="https://images.pexels.com/photos/193999/pexels-photo-193999.jpeg?h=350&auto=compress&cs=tinysrgb" target="_blank">
+          <img src="https://images.pexels.com/photos/193999/pexels-photo-193999.jpeg?h=350&auto=compress&cs=tinysrgb" alt="Nature" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="https://images.pexels.com/photos/149813/pexels-photo-149813.jpeg?h=350&auto=compress&cs=tinysrgb" target="_blank">
+          <img src="https://images.pexels.com/photos/149813/pexels-photo-149813.jpeg?h=350&auto=compress&cs=tinysrgb" alt="Fjords" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <h2>Image Gallery</h2>
+  <p>The .thumbnail class can be used to display an image gallery.</p>
+  <p>The .caption class adds proper padding and a dark grey color to text inside thumbnails.</p>
+  <p>Click on the images to enlarge them.</p>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu3BTi18RXFCRnqvm633L0hXbVOjKwcb1979skmlNApiW8jRmt" alt="Lights" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="/w3images/nature.jpg" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnaQXNQNPMMFMBDJah33o-IS2CKJhmgCBVYiPO9WiyQUhoNI0FiA" alt="Nature" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="/w3images/fjords.jpg" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw10IynbY-KiAZ2ITvutaYfbsZR-9l66RAmtoFGrvjyO9wiGxtLw" alt="Fjords" style="width:100%">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+
+
+
+
+   	<div>
+
+</html>
